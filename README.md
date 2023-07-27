@@ -14,5 +14,5 @@ pandas
 ```
 
 # Copy Right
-(Ma lab)[https://mahlab.org] at ShanghaiTech
+[Ma lab](https://mahlab.org) at ShanghaiTech
 
